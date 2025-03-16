@@ -1,3 +1,5 @@
+## 2.1 Workspaces
+
 Socrates™ stores project references in a workspace. When Socrates™ starts, you are asked to
 confirm the location that you want to use as a workspace. You can have multiple workspaces.
 

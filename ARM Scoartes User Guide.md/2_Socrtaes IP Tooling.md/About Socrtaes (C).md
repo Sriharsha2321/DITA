@@ -1,3 +1,5 @@
+## 1.1 About Socrates
+
 Socrates™ IP Tooling platform is an environment for exploring, configuring, and building Arm IP
 ready for integration into a System on Chip (SoC).
 The following examples show some of the ways users can use Socrates™.
