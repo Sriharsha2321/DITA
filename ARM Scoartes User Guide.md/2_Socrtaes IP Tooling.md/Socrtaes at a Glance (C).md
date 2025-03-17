@@ -1,3 +1,5 @@
+## 1.2 Socrtaes at a glance
+
 Socrates™ has several panels, known as views, arranged into two perspectives.
 You can rearrange the panels to suit the way you work. To reset the default layouts, select
 **Window > Perspective > Reset perspective... .**
