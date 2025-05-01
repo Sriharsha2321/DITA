@@ -3,4 +3,4 @@ The documents are created in Markdown, following DITA topic based authoring tech
 concept, task, reference, glossary and trobleshooting topic as required.
 The topics are also arranged in order or sequence like a DITA map to create a document.
 
-NOTE: The documents are created from publicly available information and are created to show the usage of Git, github, VS code and DITA rather than to be technically accurate. 
+NOTE: The documents are created from publicly available information and are created to show the usage of Git, github, VS code, Markdown and DITA rather than to be technically accurate. 
